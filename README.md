@@ -1,5 +1,5 @@
 # brp-pawnV2
-Version 2 of the Simple Pawn Shop script for your FiveM server to sell your items but with META DATA
+Version 2 of the Simple Pawn Shop script for your FiveM server to sell your items but with META DATA.
 Thanks to NALTO for version 2 updates
 
 ## Installation
