@@ -7,7 +7,7 @@ Thanks to NALTO for version 2 updates
 - unzip the file → brp-pawnV2
 - Remove **main** from the name
 - place it in your server's resource folder
-- Upload the pawn_shop_sales.sql to your Database
+- Upload the `pawn_shop_sales.sql` to your Database
 
 - make sure to add
 - ```
